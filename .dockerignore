@@ -1,0 +1,14 @@
+.DS_Store
+.gitattributes
+.gitignore
+.git/
+src/.env
+.idea/
+.circleci/
+dist/
+kubernetes/
+node_modules/
+scripts/
+test/
+src/api
+npm-debug.log
